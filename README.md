@@ -1,21 +1,9 @@
-# AdventOfCode2021
+# Advent Of Code 2021
 
-**TODO: Add description**
+My solutions to Advent of Code 2021. I may use this year as an opportunity to try out new languages, although I will complete the solutions in Elixir first.
 
-## Installation
+Some languages I am interested in trying
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `advent_of_code_2021` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:advent_of_code_2021, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/advent_of_code_2021](https://hexdocs.pm/advent_of_code_2021).
-
+* [Clojure](https://clojure.org/)
+* [Roc](https://www.roc-lang.org/)
+* [Zig](https://ziglang.org/)
